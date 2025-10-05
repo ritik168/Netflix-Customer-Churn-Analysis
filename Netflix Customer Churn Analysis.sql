@@ -158,6 +158,7 @@ SELECT
 FROM netflix
 GROUP BY churned;
 
+-- Let's End this project
 
 
 
