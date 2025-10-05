@@ -1,5 +1,8 @@
 # Netflix-Customer-Churn-Analysis
 ![Netflix logo](https://github.com/ritik168/Netflix-Customer-Churn-Analysis/blob/main/netflix-logo.png)
+
+# 🔑 Business Problem
+
 # 🔑 Churn & Retention
 
   Q.1 Which subscription type has the highest churn rate?
