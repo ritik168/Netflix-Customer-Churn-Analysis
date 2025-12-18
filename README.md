@@ -16,7 +16,7 @@ The insights help improve customer retention and reduce churn.
 ## ❓ Business Problem
 
 
-## 🔑 Churn & Retention
+### 🔑 Churn & Retention
 
   Q.1 Which subscription type has the highest churn rate?
 → Helps decide if pricing plans need redesign.
